@@ -1,0 +1,169 @@
+<manifest alg="2" build="2018.0.0.379" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="francoiselitvak.me" resolutions="1x" timestamp="1543958697371">
+  <folder name="css">
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="478731240" ref="about:web-design:contact:index:portfolio:app-design"/>
+    <file name="nomq_preview_master_a-master.css" crc="474089404" ref="about:web-design:contact:index:portfolio:app-design"/>
+    <file name="about.css" crc="3885766064" ref="about"/>
+    <file name="nomq_about.css" crc="3865506560" ref="about"/>
+    <file name="iefonts_about.css" crc="3824530138" ref="about"/>
+    <file name="web-design.css" crc="96700475" ref="web-design"/>
+    <file name="nomq_web-design.css" crc="500257848" ref="web-design"/>
+    <file name="iefonts_web-design.css" crc="3824530138" ref="web-design"/>
+    <file name="contact.css" crc="225973431" ref="contact"/>
+    <file name="nomq_contact.css" crc="3930010133" ref="contact"/>
+    <file name="iefonts_contact.css" crc="3824530138" ref="contact"/>
+    <file name="index.css" crc="451091314" ref="index"/>
+    <file name="nomq_index.css" crc="4175194146" ref="index"/>
+    <file name="iefonts_index.css" crc="3824530138" ref="index"/>
+    <file name="portfolio.css" crc="531891321" ref="portfolio"/>
+    <file name="nomq_portfolio.css" crc="339120376" ref="portfolio"/>
+    <file name="iefonts_portfolio.css" crc="3824530138" ref="portfolio"/>
+    <file name="app-design.css" crc="70330463" ref="app-design"/>
+    <file name="nomq_app-design.css" crc="368584114" ref="app-design"/>
+    <file name="iefonts_app-design.css" crc="3824530138" ref="app-design"/>
+  </folder>
+  <folder name="assets">
+    <file name="fran.docx" crc="3967882619" seo="true" mt="1543956668000"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:about:portfolio:contact:web-design:app-design"/>
+    <file name="museutils.js" crc="3803043152" ref="index:about:portfolio:contact:web-design:app-design"/>
+    <file name="whatinput.js" crc="86476730" ref="index:about:portfolio:contact:web-design:app-design"/>
+    <file name="museconfig.js" crc="380897831" ref="index:about:portfolio:contact:web-design:app-design"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index:about:portfolio:contact:web-design:app-design"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:about:portfolio:contact:web-design:app-design"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:about:portfolio:contact:web-design:app-design"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:about:portfolio:contact:web-design:app-design"/>
+    <file name="require.js" crc="4157109226" ref="index:about:portfolio:contact:web-design:app-design"/>
+    <file name="webpro.js" crc="242022427" ref="contact"/>
+    <file name="form_check.php" crc="147359589" ref="contact"/>
+    <file name="form_throttle.php" crc="93986428" ref="contact"/>
+    <file name="form_process.php" crc="3851993751" ref="contact"/>
+    <file name="form-u1176.php" crc="4197935283" ref="contact"/>
+  </folder>
+  <folder name="images">
+    <file name="logo png-01.png" crc="3877392079" seo="true" ref="index:about:portfolio:contact:web-design:app-design">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="app-design" alt=""/>
+      <caption webpage="app-design" alt=""/>
+    </file>
+    <file name="emamen tipografia pegar10.jpg" crc="4062780633" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="7d98fe611cf8bdcdb5fcc9b641e4cd93.jpg" crc="447277126" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="emamen tipografia pegar9.jpg" crc="4271483370" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook.png" crc="4140036916" seo="true" ref="index:about:portfolio:contact:web-design:app-design">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="app-design" alt=""/>
+      <caption webpage="app-design" alt=""/>
+    </file>
+    <file name="instagram.png" crc="3922391137" seo="true" ref="index:about:portfolio:contact:web-design:app-design">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="app-design" alt=""/>
+      <caption webpage="app-design" alt=""/>
+    </file>
+    <file name="linkedin.png" crc="77066052" seo="true" ref="index:about:portfolio:contact:web-design:app-design">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="app-design" alt=""/>
+      <caption webpage="app-design" alt=""/>
+    </file>
+    <file name="emamen tipografia pegar10220x170.jpg" crc="4239203115" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="emamen tipografia pegar9225x174.jpg" crc="219423183" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:about:portfolio:contact:web-design:app-design"/>
+    <file name="img_4212 (2).jpg" crc="4086578610" seo="true" ref="about">
+      <caption webpage="about" alt=""/>
+      <caption webpage="about" alt=""/>
+    </file>
+    <file name="francoise litvak3.jpg" crc="124411456" seo="true" ref="portfolio:web-design">
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="francoise litvak2.jpg" crc="440804797" seo="true" ref="portfolio:web-design">
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="web-design" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="impresion laser final.jpg" crc="27033424" seo="true" ref="portfolio:app-design">
+      <caption webpage="app-design" alt=""/>
+      <caption webpage="app-design" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="13324275_10209107078534981_1501702364_o.jpg" crc="517089015" seo="true" ref="portfolio:app-design">
+      <caption webpage="app-design" alt=""/>
+      <caption webpage="app-design" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="13396528_10209166691705273_538023599_o.jpg" crc="514142434" seo="true" ref="portfolio:app-design">
+      <caption webpage="app-design" alt=""/>
+      <caption webpage="app-design" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+      <caption webpage="portfolio" alt=""/>
+    </file>
+    <file name="hqdefault.jpg" crc="131173640" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="garie-beach-firepainting-2-crop-u905.jpg" crc="111965818" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+    <file name="garie-beach-firepainting-2-crop-u9052.jpg" crc="516774682" seo="true" ref="contact">
+      <caption webpage="contact" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="429502628" seo="true" mt="1543958584414" redirect="true"/>
+  <file name="about.html" crc="45845254" seo="true" mt="1543958198352" redirect="true"/>
+  <file name="portfolio.html" crc="4045008927" seo="true" mt="1543955688109" redirect="true"/>
+  <file name="contact.html" crc="4204197418" seo="true" mt="1543958600754" redirect="true"/>
+  <file name="web-design.html" crc="3959069983" seo="true" mt="1543956001459" redirect="true"/>
+  <file name="app-design.html" crc="3930134709" seo="true" mt="1543956311648" redirect="true"/>
+</manifest>
